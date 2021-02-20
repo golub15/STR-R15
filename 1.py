@@ -2,6 +2,7 @@ def main():
     print('My first git program')
     print('pass')
     print('1111')
+    print("saida pozovi")
 
     pass
     pass
