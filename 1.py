@@ -3,6 +3,7 @@ def main():
     print('pass')
     print('1111')
     pass
+    pass
 
 
 if __name__ == '__main__':
